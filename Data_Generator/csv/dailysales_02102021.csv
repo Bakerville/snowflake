@@ -1,0 +1,62 @@
+|Customer_Code|customer_name|customer_type_name|area_name|region_name|Invoice_Number|Invoice_Date|ZP_Item_Code|Price|Quantity|Item_Name|customer_info
+0|30190521|CN Quay CPDP Ben Tai- NT So 02 Hello|Beauty|Ho Chi Minh|HCMC|1225690651|2021-10-02|21085258|20428|1|KEM DANH RANG PS|{'name': 'Joshua Mcdonald', 'email': 'williamsangela@example.com'}
+1|30191729|Cong Ty CPDP Gia Dinh- NT So 21 Hello|Beauty|Ho Chi Minh|HCMC|1225690758|2021-10-02|21085258|20428|100|KEM DANH RANG PS|{'name': 'Nicole Best', 'email': 'james50@example.com'}
+2|30191803|NT Trung Nguyen Hello|Beauty|Ho Chi Minh|HCMC|1225691274|2021-10-02|21193325|7660000|15|MAY GIAT PANAMA|{'name': 'Crystal Costa', 'email': 'richardsonmelissa@example.com'}
+3|30190525|NT Huyen Si Hello|Beauty|Ho Chi Minh|HCMC|1225691482|2021-10-02|21193942|7317857|1|MAY GIAT ELECTROLUX|{'name': 'David Wolfe', 'email': 'hector93@example.com'}
+4|30190907|Muoi/Con(210 Hai Ba Trung) Hello|Wholesaler|Ho Chi Minh|HCMC|1225690794|2021-10-02|21193944|2069140|70|MAY SAY TOC|{'name': 'Jordan Quinn', 'email': 'randy70@example.org'}
+5|30189577|NT Duc An Hello|Beauty Dep|Ha Noi|Hanoi|1212576921|2021-10-02|21193945|7000000|3|TU LANH SAMSUNG|{'name': 'Jason Townsend', 'email': 'don20@example.net'}
+6|30183773|NT Duc Anh 102 Hello|Beauty|Ha Noi|Hanoi|1225690394|2021-10-02|21193945|7000000|5|TU LANH SAMSUNG|{'name': 'Bianca Knight', 'email': 'benjamintran@example.com'}
+7|30191909|NT Hong Lam Hello|Beauty|Ho Chi Minh|HCMC|1225690513|2021-10-02|21193945|7000000|34|TU LANH SAMSUNG|{'name': 'Thomas Martinez', 'email': 'uevans@example.net'}
+8|30190931|NT Hong Thanh Hello|Beauty|Ho Chi Minh|HCMC|1225690823|2021-10-02|21193945|7000000|35|TU LANH SAMSUNG|{'name': 'Alyssa Andrews', 'email': 'riverajay@example.org'}
+9|30190525|NT Huyen Si Hello|Beauty|Ho Chi Minh|HCMC|1225691482|2021-10-02|21193945|7000000|2|TU LANH SAMSUNG|{'name': 'David Wolfe', 'email': 'hector93@example.com'}
+10|30174268|Quay  Doanh Nghiep Becamex So 131 Hello|Beauty|Khanh Hoa|North|1225690707|2021-10-02|21193945|7000000|20|TU LANH SAMSUNG|{'name': 'Christine White', 'email': 'sosborne@example.net'}
+11|30187808|Quay  Nguyen  Tai Hello|Beauty|Ha Noi|Hanoi|1225692057|2021-10-02|21193945|7000000|300|TU LANH SAMSUNG|{'name': 'Dorothy Wilson', 'email': 'ytaylor@example.net'}
+12|30184293|Quay  So 1011-Ds Chu Manh Cuong Hello|Beauty|Thanh Hoa|Mekong|1225691389|2021-10-02|21193945|7000000|2|TU LANH SAMSUNG|{'name': 'Christina Jenkins', 'email': 'nriggs@example.net'}
+13|30191729|Cong Ty CPDP Gia Dinh- NT So 21 Hello|Beauty|Ho Chi Minh|HCMC|1225690661|2021-10-02|21193946|203743|2|MAY LANH SONY|{'name': 'Nicole Best', 'email': 'james50@example.com'}
+14|30189577|NT Duc An Hello|Beauty Dep|Ha Noi|Hanoi|1212576921|2021-10-02|21193946|203743|5|MAY LANH SONY|{'name': 'Jason Townsend', 'email': 'don20@example.net'}
+15|30183773|NT Duc Anh 102 Hello|Beauty|Ha Noi|Hanoi|1225690394|2021-10-02|21193946|203743|2|MAY LANH SONY|{'name': 'Bianca Knight', 'email': 'benjamintran@example.com'}
+16|30191311|NT Hien Mai Hello|Beauty|Ho Chi Minh|HCMC|1225690642|2021-10-02|21193946|203743|1|MAY LANH SONY|{'name': 'Christina Smith', 'email': 'browndawn@example.net'}
+17|30183773|NT Duc Anh 102 Hello|Beauty|Ha Noi|Hanoi|1225690394|2021-10-02|21193948|12005000|1|MAY LOC KHONG KHI|{'name': 'Bianca Knight', 'email': 'benjamintran@example.com'}
+18|30191705|NT Duy Chau Hello|Beauty|Ho Chi Minh|HCMC|1225691371|2021-10-02|21193948|12005000|8|MAY LOC KHONG KHI|{'name': 'Carol Alvarado', 'email': 'mckinneydominique@example.com'}
+19|30173737|Cong Ty Co Phan TMDV Thang Long Hello|Beauty Dep|Khanh Hoa|North|1212576969|2021-10-02|21193949|5033860|10|MAY HUT BUI|{'name': 'Aaron Woods', 'email': 'stephanie15@example.org'}
+20|30189144|Chau Thanhng Sinh Hello|Beauty|Nghe An|Mekong|1225691005|2021-10-02|21193949|5033860|10|MAY HUT BUI|{'name': 'Deborah Knight', 'email': 'howetroy@example.com'}
+21|30192453|NT Kim Hello|Beauty|Ho Chi Minh|HCMC|1225690675|2021-10-02|21193949|5033860|10|MAY HUT BUI|{'name': 'Brian Krause', 'email': 'jasonvance@example.com'}
+22|30190857|NT Tai Truong Hello|Beauty|Ho Chi Minh|HCMC|1225690691|2021-10-02|21193949|5033860|25|MAY HUT BUI|{'name': 'Deborah Carr', 'email': 'kathy02@example.com'}
+23|30190771|NT Tien nh Hello|Beauty|Ho Chi Minh|HCMC|1225690524|2021-10-02|21193949|5033860|155|MAY HUT BUI|{'name': 'Melissa Walter', 'email': 'eric94@example.net'}
+24|30172768|NT Trong Tin Hello|Beauty|Khanh Hoa|North|1225690761|2021-10-02|21193949|5033860|10|MAY HUT BUI|{'name': 'Lauren Harris', 'email': 'katherinegonzalez@example.net'}
+25|30174378|Quay Thuoc Van Phuc 01 Hello|Beauty|Khanh Hoa|Mekong|1225691708|2021-10-02|21193949|5033860|10|MAY HUT BUI|{'name': 'Michelle Martinez', 'email': 'zsimpson@example.com'}
+26|30191419|Cong Ty  TMDP Huynh Kim Hello|Wholesaler|Ho Chi Minh|HCMC|1225691640|2021-10-02|21193950|17960000|3|LAPTOP VAIO|{'name': 'Joseph Garcia', 'email': 'grace86@example.net'}
+27|30191419|Cong Ty  TMDP Huynh Kim Hello|Wholesaler|Ho Chi Minh|HCMC|1225691630|2021-10-02|21193950|17960000|31|LAPTOP VAIO|{'name': 'Joseph Garcia', 'email': 'grace86@example.net'}
+28|30172406|KThanh  NThuong Tinh Khanh Thanh Hello|Beauty Dep|Khanh Hoa|North|1212576948|2021-10-02|21193950|17960000|5|LAPTOP VAIO|{'name': 'Gina Campbell', 'email': 'kinganna@example.org'}
+29|30190467|NT Bao Tran Hello|Beauty|Ho Chi Minh|HCMC|1225691658|2021-10-02|21193950|17960000|5|LAPTOP VAIO|{'name': 'Gabriela Mullins', 'email': 'cingram@example.com'}
+30|30191705|NT Duy Chau Hello|Beauty|Ho Chi Minh|HCMC|1225691325|2021-10-02|21193950|17960000|15|LAPTOP VAIO|{'name': 'Carol Alvarado', 'email': 'mckinneydominique@example.com'}
+31|30189604|NT Minh Ha Hello|Beauty|Ha Noi|Hanoi|1225691158|2021-10-02|21193950|17960000|15|LAPTOP VAIO|{'name': 'Guy Bennett', 'email': 'hudsonmichael@example.net'}
+32|30189604|NT Minh Ha Hello|Beauty|Ha Noi|Hanoi|1225691158|2021-10-02|21193951|17114300|20|LAPTOP LENOVO|{'name': 'Guy Bennett', 'email': 'hudsonmichael@example.net'}
+33|30190889|NT Minh Khue Hello|Beauty|Ho Chi Minh|HCMC|1225690479|2021-10-02|21193951|17114300|31|LAPTOP LENOVO|{'name': 'Laurie White', 'email': 'kcarrillo@example.com'}
+34|30175282|NT Phu Khanh Hello|Beauty|An Giang|Centre|1225690837|2021-10-02|21193951|17114300|10|LAPTOP LENOVO|{'name': 'Eduardo Holmes', 'email': 'deckerloretta@example.net'}
+35|30184426|NT Phuong Chau Hello|Beauty|Hai Phong|Mekong|1225691612|2021-10-02|21193951|17114300|2|LAPTOP LENOVO|{'name': 'Lori Quinn', 'email': 'amandadiaz@example.org'}
+36|30190478|NThuong Da KThanh Thanhn My Sai Gon Hello|Beauty Dep|Ho Chi Minh|HCMC|1212576942|2021-10-02|21193951|17114300|100|LAPTOP LENOVO|{'name': 'Sarah Evans', 'email': 'kimberlyward@example.org'}
+37|30191074|NThuong Tan Ngang- NT Hello|Beauty Service|Ho Chi Minh|HCMC|1212576970|2021-10-02|21193951|17114300|121|LAPTOP LENOVO|{'name': 'Lisa Brown', 'email': 'josephmason@example.com'}
+38|30187808|Quay  Nguyen  Tai Hello|Beauty|Ha Noi|Hanoi|1225692057|2021-10-02|21193951|17114300|5|LAPTOP LENOVO|{'name': 'Dorothy Wilson', 'email': 'ytaylor@example.net'}
+39|30190907|Muoi/Con(210 Hai Ba Trung) Hello|Wholesaler|Ho Chi Minh|HCMC|1225690794|2021-10-02|21193952|102571|6|TAI NGHE SONY|{'name': 'Jordan Quinn', 'email': 'randy70@example.org'}
+40|30191198|NT Ngang Minh Hello|Beauty|Ho Chi Minh|HCMC|1225690510|2021-10-02|21193952|102571|3|TAI NGHE SONY|{'name': 'Brian Peters', 'email': 'wilsonchristina@example.com'}
+41|30190907|Muoi/Con(210 Hai Ba Trung) Hello|Wholesaler|Ho Chi Minh|HCMC|1225690794|2021-10-02|21193954|156314|3|HP PC|{'name': 'Jordan Quinn', 'email': 'randy70@example.org'}
+42|30173102|Cong Ty Co Phan NThuong Da KThanh Thanhn My Da Lat Hello|Beauty Dep|Lam Dong|North|1212577120|2021-10-02|21193955|547627|5|DELL VOSTRO|{'name': 'Leah Benton', 'email': 'jhess@example.com'}
+43|30193380|NT My Lan Hello|Beauty|Ho Chi Minh|HCMC|1225690670|2021-10-02|21193956|562453|10|DELL XPS|{'name': 'Allison Garcia', 'email': 'gpatterson@example.org'}
+44|30191705|NT Duy Chau Hello|Beauty|Ho Chi Minh|HCMC|1225691325|2021-10-02|21193958|318000|12|THINKPAD T1|{'name': 'Carol Alvarado', 'email': 'mckinneydominique@example.com'}
+45|30185015|Dai Ly Ban  Cho Quay CPDP TV.Faom (To ) Hello|Beauty|Thai Nguyen|Mekong|1225691687|2021-10-02|21193966|16988600|2|HP PALIVILLON|{'name': 'Erica Moore', 'email': 'burnsdevin@example.org'}
+46|30190907|Muoi/Con(210 Hai Ba Trung) Hello|Wholesaler|Ho Chi Minh|HCMC|1225690610|2021-10-02|21193966|16988600|30|HP PALIVILLON|{'name': 'Jordan Quinn', 'email': 'randy70@example.org'}
+47|30191407|NT  Anh 03 Hello|Beauty|Ho Chi Minh|HCMC|1225690667|2021-10-02|21193966|16988600|60|HP PALIVILLON|{'name': 'Paul Bell', 'email': 'amandahansen@example.com'}
+48|30190600|NT Hanh Hello|Beauty|Ho Chi Minh|HCMC|1225691382|2021-10-02|21193966|16988600|3|HP PALIVILLON|{'name': 'Alexandra Adams', 'email': 'lowebarry@example.org'}
+49|30172935|NT Kim Chi Hello|Beauty|Gia Lai|North|1225691662|2021-10-02|21193966|16988600|5|HP PALIVILLON|{'name': 'Melissa Price MD', 'email': 'ejohnson@example.com'}
+50|30184099|NT Nguyen Tai Huong Hello|Beauty|Nghe An|Mekong|1225691618|2021-10-02|21193966|16988600|5|HP PALIVILLON|{'name': 'Christine Wiley', 'email': 'sotonicole@example.org'}
+51|30190843|NT Phu Quy Hello|Beauty|Ho Chi Minh|HCMC|1225690383|2021-10-02|21193966|16988600|20|HP PALIVILLON|{'name': 'Trevor Rhodes', 'email': 'johnsonsusan@example.org'}
+52|30184426|NT Phuong Chau Hello|Beauty|Hai Phong|Mekong|1225691612|2021-10-02|21193966|16988600|1|HP PALIVILLON|{'name': 'Lori Quinn', 'email': 'amandadiaz@example.org'}
+53|30190863|NT So 721 Hello|Beauty|Ho Chi Minh|HCMC|1225690553|2021-10-02|21193966|16988600|10|HP PALIVILLON|{'name': 'Brian Graham', 'email': 'james99@example.net'}
+54|30190771|NT Tien nh Hello|Beauty|Ho Chi Minh|HCMC|1225690524|2021-10-02|21193966|16988600|5|HP PALIVILLON|{'name': 'Melissa Walter', 'email': 'eric94@example.net'}
+55|30190979|NT Thanhng Giangi Hello|Beauty|Ho Chi Minh|HCMC|1225691303|2021-10-02|21193966|16988600|120|HP PALIVILLON|{'name': 'Mrs. Ashley Wells', 'email': 'icooper@example.org'}
+56|30172683|NT Thanhng Hello|Beauty|Gia Lai|North|1225691676|2021-10-02|21193966|16988600|5|HP PALIVILLON|{'name': 'Gary Hardin', 'email': 'gregorybooth@example.org'}
+57|30185046|Nha Ho Sinh-Quay  MTV DV Nha Ho Sinh Minh  Hello|Wholesaler|Thanh Hoa|Mekong|1225691935|2021-10-02|21193966|16988600|2|HP PALIVILLON|{'name': 'Perry Ritter', 'email': 'sharpjennifer@example.com'}
+58|30185062|QT So 070- Quay CPTMD Sam Ngoc Linh Quang Nam Hello|Beauty|Thanh Hoa|Mekong|1225691977|2021-10-02|21193966|16988600|5|HP PALIVILLON|{'name': 'Karen Nguyen', 'email': 'michaelstrong@example.com'}
+59|30187427|Quay  Nam Tai Hello|Beauty|Hai Phong|Mekong|1225691633|2021-10-02|21193966|16988600|120|HP PALIVILLON|{'name': 'Thomas Kim', 'email': 'ucarter@example.com'}
+60|30187431|Quay  Nguyen  Men Hello|Wholesaler|Ha Noi|Hanoi|1225692058|2021-10-02|21193966|16988600|20|HP PALIVILLON|{'name': 'Jason Curry', 'email': 'kathleenjarvis@example.org'}

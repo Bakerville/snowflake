@@ -1,0 +1,23 @@
+|Customer_Code|customer_name|customer_type_name|area_name|region_name|Invoice_Number|Invoice_Date|ZP_Item_Code|Price|Quantity|Item_Name|customer_info
+0|30189604|NT Minh Ha|Beauty|Ha Noi|Hanoi|1225691158|2021-10-04|21193945|6500000|70|TU LANH SAMSUNG|{'name': 'Tiffany Cole', 'email': 'christianhood@example.org'}
+1|30189385|NT NThuong Da KThanh Huyen Hiep Thanh Hello|Beauty|Ninh Binh|Mekong|1225691939|2021-10-04|21193945|6500000|10|TU LANH SAMSUNG|{'name': 'Michelle Evans', 'email': 'khanson@example.net'}
+2|30185072|NT Nguyen  Dan Ha Hello|Beauty|Thanh Hoa|Mekong|1225691938|2021-10-04|21193945|6500000|2|TU LANH SAMSUNG|{'name': 'Ricky Erickson', 'email': 'pwalker@example.com'}
+3|30190465|NT Phu nh Hello|Beauty|Ho Chi Minh|HCMC|1225690332|2021-10-04|21193945|6500000|2|TU LANH SAMSUNG|{'name': 'Cynthia Bright', 'email': 'deannafox@example.org'}
+4|30185986|NT So 03-CN Tai Pho-CTCP  VTYT Tay Nguyen Hello|Beauty|Hai Duong|Mekong|1225691924|2021-10-04|21193945|6500000|2|TU LANH SAMSUNG|{'name': 'Bradley Davis', 'email': 'cynthiaolsen@example.org'}
+5|30190465|NT Phu nh Hello|Beauty|Ho Chi Minh|HCMC|1225690332|2021-10-04|21193948|9005000|2|MAY LOC KHONG KHI|{'name': 'Cynthia Bright', 'email': 'deannafox@example.org'}
+6|30189211|NT Vinphaco So 07- Quay CPDP Vinh Phuc Hello|Beauty|Hoa Binh|Mekong|1225691997|2021-10-04|21193948|9005000|4|MAY LOC KHONG KHI|{'name': 'Kathryn Fuentes', 'email': 'kimacevedo@example.org'}
+7|30185046|Nha Ho Sinh-Quay  MTV DV Nha Ho Sinh Minh  Hello|Wholesaler|Thanh Hoa|Mekong|1225691935|2021-10-04|21193948|9005000|2|MAY LOC KHONG KHI|{'name': 'Johnny Nelson', 'email': 'stephen79@example.org'}
+8|30185062|QT So 070- Quay CPTMD Sam Ngoc Linh Quang Nam Hello|Beauty|Thanh Hoa|Mekong|1225691977|2021-10-04|21193948|9005000|3|MAY LOC KHONG KHI|{'name': 'Pamela Pearson', 'email': 'qthompson@example.org'}
+9|30187431|Quay  Nguyen  Men Hello|Wholesaler|Ha Noi|Hanoi|1225692058|2021-10-04|21193948|9005000|2|MAY LOC KHONG KHI|{'name': 'Christian Obrien', 'email': 'sjuarez@example.com'}
+10|30172406|KThanh  NThuong Tinh Khanh Thanh|Beauty Dep|Khanh Hoa|North|1212576948|2021-10-04|21193950|15800000|3|LAPTOP VAIO|{'name': 'Rodney Sharp', 'email': 'cory81@example.org'}
+11|30191815|NThuong Da KThanh Khu Vuc Long Khanh-NT Hello|Beauty Service|Dong Nai|North|1212576908|2021-10-04|21193950|15800000|10|LAPTOP VAIO|{'name': 'Sharon Richardson', 'email': 'amanda75@example.org'}
+12|30190478|NThuong Da KThanh Thanhn My Sai Gon Hello|Beauty Dep|Ho Chi Minh|HCMC|1212576942|2021-10-04|21193950|15800000|2|LAPTOP VAIO|{'name': 'Kelly Romero', 'email': 'xwilliamson@example.org'}
+13|30191074|NThuong Tan Ngang- NT Hello|Beauty Service|Ho Chi Minh|HCMC|1212576970|2021-10-04|21193950|15800000|1|LAPTOP VAIO|{'name': 'Mary Bray', 'email': 'ssnow@example.com'}
+14|30174268|Quay  Doanh Nghiep Becamex So 131 Hello|Beauty|Khanh Hoa|North|1225690707|2021-10-04|21193950|15800000|20|LAPTOP VAIO|{'name': 'Maria Guzman', 'email': 'sydneysmith@example.com'}
+15|30187431|Quay  Nguyen  Men Hello|Wholesaler|Ha Noi|Hanoi|1225692058|2021-10-04|21193950|15800000|20|LAPTOP VAIO|{'name': 'Christian Obrien', 'email': 'sjuarez@example.com'}
+16|30172406|KThanh  NThuong Tinh Khanh Thanh Hello|Beauty Dep|Khanh Hoa|North|1212576948|2021-10-04|21193951|15120000|2|LAPTOP LENOVO|{'name': 'Rodney Sharp', 'email': 'cory81@example.org'}
+17|30190894|NT An Loc Hello|Beauty|Ho Chi Minh|HCMC|1225690558|2021-10-04|21193951|15120000|10|LAPTOP LENOVO|{'name': 'Mark Aguilar', 'email': 'mossphilip@example.org'}
+18|30189577|NT Duc An Hello|Wholesaler|Ha Noi|Hanoi|1212576921|2021-10-04|21193951|15120000|5|LAPTOP LENOVO|{'name': 'Jennifer Nelson', 'email': 'kevinmurphy@example.org'}
+19|30185072|NT Nguyen  Dan Ha Hello|Beauty|Thanh Hoa|Mekong|1225691938|2021-10-04|21193966|16988600|10|HP PALIVILLON|{'name': 'Ricky Erickson', 'email': 'pwalker@example.com'}
+20|30184794|Quay  Tuan Huyen Hello|Beauty|Nghe An|Mekong|1225691726|2021-10-03|21193967|206914|10|QUAT MAY SENKO|{'name': 'Amber Pineda', 'email': 'quinnjames@example.com'}
+21|30183743|NT Chien Thang Hello|Beauty|Nghe An|Mekong|1225690824|2021-10-03|21205040|15450000|2|QUAT DYSON|{'name': 'Megan Jones', 'email': 'murphydeborah@example.net'}
