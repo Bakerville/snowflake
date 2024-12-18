@@ -1,0 +1,1 @@
+{"_invocation_id": "67c58e9d-928e-4ab3-ad50-54da0de77039", "linked": {"0": {"name": "model.dbtlearn.test_2", "type": "model"}, "1": {"name": "model.dbtlearn.test", "type": "model", "succ": [0]}, "2": {"name": "test.dbtlearn.test", "type": "test"}}}

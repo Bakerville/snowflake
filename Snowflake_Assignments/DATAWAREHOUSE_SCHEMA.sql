@@ -52,4 +52,6 @@ AS
 
 select * from dim_date;
 
+select * from dim_product;
 
+select * from dim_customer;
