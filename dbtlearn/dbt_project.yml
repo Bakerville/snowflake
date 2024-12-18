@@ -32,7 +32,9 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   dbtlearn:
     # Config indicated by + and applies to all files under models/example/
-    #staging:
-    #  +materialized: view
-    #dw:
-    #  +materialized: table
+    staging:
+      +materialized: table
+      +target_schema: dbt_stg
+    dw:
+      +materialized: table
+      +target_schema: dbt_dw

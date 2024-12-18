@@ -1,4 +1,4 @@
-with staging_table as
+with DAILY_SALES as
 (
     select * from DEMO_DB.SALES_STG.DAILY_SALES
 )
