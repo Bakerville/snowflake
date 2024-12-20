@@ -1,3 +1,4 @@
 {
-    "dbt.perspectiveTheme": "Solarized"
+    "dbt.perspectiveTheme": "Solarized",
+    "snowflake.syntaxHighlighting.autoDetectSqlInPython": true
 }
