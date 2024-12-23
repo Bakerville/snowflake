@@ -1,7 +1,8 @@
 select * from demo_db.dbt_dw.dim_customer where current_flag='Y';
+select * from demo_db.sales_dw.dim_customer where current_flag='Y';
 
-select * from demo_db.dbt_dw.dim_product;
-
+select * from demo_db.dbt_dw.dim_product where current_flag='Y';
+select * from demo_db.sales_dw.dim_product where current_flag='Y';
 
 select *
 FROM (select invoice_date, count(*) from demo_db.dbt_dw.fact_invoice group by invoice_date) as t1
@@ -16,4 +17,5 @@ ON  t1.invoice_date=t2.invoice_date;
 --select * from demo_db.sales_lnd.daily_sales;
 
 select * from demo_db.sales_history.customer_history where current_flag='Y';
+
 

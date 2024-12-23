@@ -24,7 +24,7 @@ with DAILY_SALES as
 )
 select * from DAILY_SALES as d
 {% if is_incremental() %}
-  where d.invoice_date > (select 
+  where d.invoice_date < (select 
     CASE WHEN (select count(*) from {{ this }})=0 THEN TO_DATE('1000-01-01')
     ELSE
     MAX(invoice_date) END from DEMO_DB.DBT_STG.DAILY_SALES)

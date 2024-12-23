@@ -1,0 +1,6 @@
+version: 2
+data_tests:
+    - name: assert_current_customer_is_unique
+      description: >
+        For a specified time, only one customer_code with the Y flag allow to exist in dim_customer. All of others with same code must be N flag
+        

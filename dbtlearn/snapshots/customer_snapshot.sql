@@ -1,7 +1,7 @@
 {% snapshot customer_snapshot %}
 {{
     config(
-        target_schema = 'customer_snapshot',
+        target_schema = 'snapshot',
         unique_key = 'customer_code',
         strategy = 'check',
         check_cols = ["customer_name", "contact_person", "contact_email", "area_name","region_name"],

@@ -45,14 +45,3 @@ models:
     staging:
       +materialized: table
       +schema: stg
-
-snapshots:
-  - name: customer_snapshot
-    relation: ref('daily_sales')
-    config:
-      schema: dw
-      database: demo_db
-      unique_key: customer_code
-      strategy: check
-      check_cols: ["customer_name", "contact_person", "contact_email", "area_name","region_name"]
-      dbt_valid_to_current: "dateadd(day, -1, current_date())"
