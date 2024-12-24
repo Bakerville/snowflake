@@ -1,4 +1,5 @@
 {
     "dbt.perspectiveTheme": "Solarized",
-    "snowflake.syntaxHighlighting.autoDetectSqlInPython": true
+    "snowflake.syntaxHighlighting.autoDetectSqlInPython": true,
+    "dbt.enableNewLineagePanel": true
 }

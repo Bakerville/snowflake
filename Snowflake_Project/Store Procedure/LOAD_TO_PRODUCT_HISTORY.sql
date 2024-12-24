@@ -18,7 +18,7 @@ CREATE OR REPLACE PROCEDURE DEMO_DB.SALES_HISTORY.SP_LOAD_TO_PRODUCT_HIS()
                     concat_ws(
                         '||',
                         coalesce(item_name, ''),
-                        coalesce(item_code, '')
+                        --coalesce(item_code, '')
                     )
                 ) as record_checksum,
                 current_timestamp() as insert_at,

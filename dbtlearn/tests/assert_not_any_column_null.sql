@@ -1,0 +1,1 @@
+{{ not_any_column_null(ref('dim_customer'))}}
